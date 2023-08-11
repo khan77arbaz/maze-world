@@ -1,0 +1,68 @@
+{
+    "id": "75700d00-66d2-4c09-9ab2-615aa11ac673",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "GameLoadingScene",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "23c0d35b-b657-4775-a0d5-76301cac1ba5",
+            "label": "loading",
+            "components": [],
+            "texture": {
+                "key": "loading"
+            },
+            "x": 957,
+            "y": 542
+        },
+        {
+            "type": "Image",
+            "id": "e928a97b-89f0-4cf4-b96f-50b4e7d7bd4c",
+            "label": "loading_1",
+            "components": [],
+            "texture": {
+                "key": "loading"
+            },
+            "x": 963,
+            "y": 540
+        },
+        {
+            "type": "Image",
+            "id": "a3dc1074-535c-46ac-b9e6-cbd7907aeea2",
+            "label": "gamebackground",
+            "components": [],
+            "texture": {
+                "key": "gamebackground"
+            },
+            "x": 961,
+            "y": 539,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "type": "Text",
+            "id": "2658ed9f-38eb-41d4-8909-821ffbeeddae",
+            "label": "text_1",
+            "components": [],
+            "x": 629.5,
+            "y": 491,
+            "text": "Maze Worlds",
+            "fontSize": "100px",
+            "fontStyle": "bold italic",
+            "color": "#56046bff",
+            "stroke": "#ffffffff"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

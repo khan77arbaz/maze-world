@@ -1,0 +1,50 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/endGameLogo.png",
+                "type": "image",
+                "key": "endGameLogo"
+            },
+            {
+                "url": "assets/gamebackground.jpg",
+                "type": "image",
+                "key": "gamebackground"
+            },
+            {
+                "url": [
+                    "assets/gamePlayMusic.mp3"
+                ],
+                "type": "audio",
+                "key": "gamePlayMusic"
+            },
+            {
+                "url": "assets/playAgain23.png",
+                "type": "image",
+                "key": "playAgain23"
+            },
+            {
+                "url": "assets/restartLogo.png",
+                "type": "image",
+                "key": "restartLogo"
+            },
+            {
+                "url": "src/soundManager.js",
+                "type": "script",
+                "key": "soundManager"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

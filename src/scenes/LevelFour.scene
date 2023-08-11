@@ -1,0 +1,1235 @@
+{
+    "id": "ac28bb62-67f2-49cc-9eba-00d15f783f65",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "LevelFour",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "87ed80b0-2f89-43cb-a0e6-78b926045dfa",
+            "label": "shapesContainer",
+            "scope": "CLASS",
+            "components": [],
+            "list": [
+                {
+                    "type": "Rectangle",
+                    "id": "1630dbb0-4f6d-41de-a090-154a4efc2076",
+                    "label": "shapeRectOne",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 500,
+                    "y": 999,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "bf2d70aa-4f33-4212-93a9-a169e51e5af3",
+                    "label": "shapeRectTwo",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 500,
+                    "y": 869,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "30cdb278-8b9a-400f-a436-7e576da4fbbf",
+                    "label": "shapeRectFour",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1154,
+                    "y": 877,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "cf1790a6-c577-4999-89f3-d4b875081694",
+                    "label": "shapeRectSix",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1285,
+                    "y": 877,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "09fd60b5-a41e-4055-b936-e2bc79d02861",
+                    "label": "shapeRectSeven",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1285,
+                    "y": 1006,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "42d90fdf-e8a4-4c12-bf18-0fe70a7b2ea5",
+                    "label": "shapeRectEight",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1418,
+                    "y": 877,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "73942568-0c3a-4755-8cca-ff5849fb6d81",
+                    "label": "shapeRectFiveteen",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1416,
+                    "y": 220,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "7f26ffa0-17f9-4f96-ac09-9256c213e143",
+                    "label": "shapeRectSixteen",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1154,
+                    "y": 87,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "2dba6de2-9a84-438f-99df-3f879e77c7e2",
+                    "label": "shapeRectNineteen",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1416,
+                    "y": 87,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "6a622f53-4526-4f10-a5c2-aa9e4c49633e",
+                    "label": "shapeRectTwenty",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1285,
+                    "y": 87,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "8686d673-78bb-434b-bced-aa56e0af953b",
+                    "label": "shapeRectTwentyOne",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1023,
+                    "y": 87,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "10338b89-786a-4e77-b253-c805c6587a78",
+                    "label": "shapeRect22",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 500,
+                    "y": 740,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "f8eb4cf8-6533-4954-8b80-40c4cd38bd15",
+                    "label": "shapeRect24",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 632,
+                    "y": 999,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "52cc7b11-690e-485e-8352-dca0bf2d46d4",
+                    "label": "shapeRect25",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 500,
+                    "y": 350,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "0bf6598a-4043-4715-84d2-5d8113b5ff9a",
+                    "label": "shapeRect26",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 500,
+                    "y": 220,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "ee526d6b-d8f0-426c-acbe-2896dac56a34",
+                    "label": "shapeRect27",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 500,
+                    "y": 89,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "1b9796c1-806b-4ed9-929d-199716e71a88",
+                    "label": "shapeRect28",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 632,
+                    "y": 89,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "de4c1db8-e4e2-4197-bc9a-9863b78560ca",
+                    "label": "shapeRect29",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 632,
+                    "y": 220,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "1cc57c04-5147-413d-a810-36bd216ae62b",
+                    "label": "shapeRect30",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 500,
+                    "y": 480,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "dddf2865-7305-4e1f-b15c-8db77ef2a8a4",
+                    "label": "shapeRect31",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 892,
+                    "y": 220,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "27b34b91-40c8-4936-a173-6eb568b423d3",
+                    "label": "shapeRect32",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1023,
+                    "y": 220,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "6c3b0a2b-a127-403a-af9a-7d832615c75e",
+                    "label": "shapeRect33",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1154,
+                    "y": 220,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "ac194933-5adb-4e55-ae1a-4513ac974962",
+                    "label": "shapeRect",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1285,
+                    "y": 746,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "50171664-60df-4767-9a36-bd091ef59847",
+                    "label": "shapeRect_1",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1154,
+                    "y": 746,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "daac1c72-04f8-46e5-ac32-8b6434a0f599",
+                    "label": "shapeRect_2",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1023,
+                    "y": 745,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "738247d1-0deb-44cb-b69a-19156dd77c2d",
+                    "label": "shapeRect_3",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1023,
+                    "y": 877,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "e6ec57b3-1501-4baa-b24c-cba47303a565",
+                    "label": "shapeRect_4",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 632,
+                    "y": 869,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "2dd11e46-c007-48f5-9a6e-c3e745eb7910",
+                    "label": "shapeRect_5",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 632,
+                    "y": 740,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "c2400521-fc1a-45a4-99cb-f10c9b11d173",
+                    "label": "shapeRect_6",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 632,
+                    "y": 610,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "745765fb-3e74-45ae-81ae-8694e5ce5f6b",
+                    "label": "shapeRect_7",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 632,
+                    "y": 480,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "89620461-2d8d-49b5-b8b4-f01e7e790148",
+                    "label": "shapeRect_8",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 762,
+                    "y": 220,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "2ae67bc1-1842-46ec-a3d3-7439dce8b526",
+                    "label": "shapeRect_9",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 892,
+                    "y": 352,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "f06c3266-3618-4ce4-bfb3-750399992d05",
+                    "label": "shapeRect_10",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 892,
+                    "y": 483,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "fd13a576-1485-4253-9ca5-c032021396ee",
+                    "label": "shapeRect_11",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1023,
+                    "y": 352,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "4be83c1f-2778-4ba2-8d78-2b2b5e6155bb",
+                    "label": "shapeRect_12",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1154,
+                    "y": 352,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "ce511e6b-0a92-4909-91f7-c540b39ca2c0",
+                    "label": "shapeRect_13",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1285,
+                    "y": 352,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "ad5b13a6-a465-4416-85ef-f2510c5c9a59",
+                    "label": "shapeRect_14",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1416,
+                    "y": 352,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "c28d31a4-019e-447d-a5b4-67a1feac1548",
+                    "label": "shapeRect_16",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1154,
+                    "y": 484,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "471a4b88-dad8-4bb8-b788-daac61d633d8",
+                    "label": "shapeRect_19",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1285,
+                    "y": 615,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "4f529e03-14e4-4b96-9c94-103ce4630d6a",
+                    "label": "shapeRect_20",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1154,
+                    "y": 615,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "e6436192-9457-4df4-8521-a796b004c780",
+                    "label": "shapeRect_21",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1023,
+                    "y": 615,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "a9135dac-b9be-4343-8d78-7ba88b1c498f",
+                    "label": "shapeRect_22",
+                    "useGameObjectName": true,
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 892,
+                    "y": 615,
+                    "isFilled": true,
+                    "fillColor": "#70cf53",
+                    "width": 128,
+                    "height": 128
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "414b459d-3e1e-4825-a917-bd9b86020402",
+            "label": "collidersContainer",
+            "scope": "CLASS",
+            "components": [],
+            "list": [
+                {
+                    "type": "Rectangle",
+                    "id": "b8e32a32-5103-4a81-88e2-70fe70fe3934",
+                    "label": "colliderShapeEighteen",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 565,
+                    "y": 609,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 120
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "4d80328d-2c65-4f95-823d-cdd80994026f",
+                    "label": "colliderShapeNineteen",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1353,
+                    "y": 682,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 260
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "645502e2-3bca-45ac-ad42-12b33bc57db2",
+                    "label": "colliderShapeTwentyOne",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1483,
+                    "y": 220,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 380
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "f61c07e8-4442-416c-ae31-8d176c69702b",
+                    "label": "colliderShapeTwentyFour",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 563,
+                    "y": 21,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 250,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "4a45843b-fcdb-44d8-8e12-04ff9b530cbd",
+                    "label": "colliderShape27",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 826,
+                    "y": 485,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 385
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "986095ca-1873-4910-a562-419426890c92",
+                    "label": "colliderShape28",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1218,
+                    "y": 20,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 520,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "7f5c456a-7bcd-4682-b34d-5df5435d50a7",
+                    "label": "colliderShape33",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 826,
+                    "y": 152,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 250,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "1332ae19-266e-4000-be83-673bb1f655a4",
+                    "label": "colliderShape34",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 497,
+                    "y": 672,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 128,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "bb231ccf-de05-4c79-a523-d8d8a7de2de1",
+                    "label": "colliderShape35",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 695,
+                    "y": 288,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 250,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "0b177d97-fdd4-4f63-b9fb-89ddf8ac0429",
+                    "label": "colliderShape36",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 893,
+                    "y": 684,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 120,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "769ef211-49f9-4b35-972c-1a95792bb79d",
+                    "label": "colliderShape38",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 432,
+                    "y": 870,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 390
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "296c8cef-80ad-479b-ac16-d306dd431ff6",
+                    "label": "colliderShape39",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 567,
+                    "y": 351,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 120
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "645ac47d-a4c0-4c00-8c76-6fcea9e2ae79",
+                    "label": "colliderShape43",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 432,
+                    "y": 285,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 530
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "09c7f601-a1c4-4bd3-ad56-8200781704ee",
+                    "label": "colliderShape44",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 563,
+                    "y": 1068,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 250,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "316c97b9-2069-49a5-96f5-d48681d3a3d2",
+                    "label": "colliderShape45",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 497,
+                    "y": 549,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 120,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "3641cece-9786-462d-882b-61538ffb5a00",
+                    "label": "colliderShape",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 699,
+                    "y": 84,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 128
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "3e957ebb-3a27-4c39-a563-6891ccd6e8f6",
+                    "label": "colliderShape_1",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 703,
+                    "y": 740,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 650
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "28a52560-9a14-4896-8b28-65dbccdaa6fa",
+                    "label": "colliderShapeTwentyOne_1",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1223,
+                    "y": 217,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 120
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "9be0ff53-d9b6-48b6-837e-3dc797eb0e41",
+                    "label": "colliderShapeTwentyOne_2",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1345,
+                    "y": 219,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 120
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "7ba73bf5-6530-46b5-b831-f4f1fd5b59f1",
+                    "label": "colliderShapeTwentyOne_3",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1283,
+                    "y": 156,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 120,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "f72fda87-8e01-4a5a-b7c7-3c3b2e7925ae",
+                    "label": "colliderShapeTwentyOne_4",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1284,
+                    "y": 281,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 120,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "a1fde4ca-0e2b-4c90-be8e-cc295bce7fcd",
+                    "label": "colliderShapeNineteen_1",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1416,
+                    "y": 811,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 120,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "f975c75c-2fed-40c2-8dde-c7c86db4ff5f",
+                    "label": "colliderShapeNineteen_2",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1023,
+                    "y": 548,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 120,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "bc55b2f3-7601-4c9e-bb8c-46ae0f1618a2",
+                    "label": "colliderShapeNineteen_3",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1022,
+                    "y": 420,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 120,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "d65b906a-5afb-4e75-babe-c9d2e8d89b08",
+                    "label": "colliderShapeNineteen_4",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 961,
+                    "y": 484,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 125
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "e6ff92e8-f261-4823-9f64-40f44c373ae9",
+                    "label": "colliderShapeNineteen_5",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1086,
+                    "y": 484,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 125
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "812243a6-5d13-43f2-a8fe-0af7fed437ce",
+                    "label": "colliderShapeNineteen_6",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1223,
+                    "y": 484,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 125
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "90892323-c73d-4b66-a9df-cc88c4530cdf",
+                    "label": "colliderShapeNineteen_7",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1287,
+                    "y": 548,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 125,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "9db93d4e-612f-4639-8f39-cbb10b148d6a",
+                    "label": "colliderShapeNineteen_8",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1354,
+                    "y": 420,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 260,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "eb9d1732-e527-4cb8-b4a8-6d265d7184b4",
+                    "label": "colliderShapeTwentyOne_5",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 956,
+                    "y": 85,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 120
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "5562ff00-98b4-4b1f-a09e-fa28dce42f57",
+                    "label": "colliderShapeNineteen_9",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 956,
+                    "y": 812,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 255
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "63d6a0a3-419e-4e29-88c4-755d6fa4d98e",
+                    "label": "colliderShapeNineteen_10",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1090,
+                    "y": 944,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 255,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "2a6fa069-1992-4043-8a6f-7fcd093ff2b1",
+                    "label": "colliderShapeNineteen_11",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1485,
+                    "y": 877,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 120
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "82d774bc-c022-45d6-8acc-922779c26021",
+                    "label": "colliderShapeNineteen_12",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1419,
+                    "y": 944,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 125,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "74c4b989-585d-4898-b055-aeaae28bbaa7",
+                    "label": "colliderShapeNineteen_13",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1353,
+                    "y": 1008,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 125
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "23107454-1c38-4b09-aef7-49f97439b7fc",
+                    "label": "colliderShapeNineteen_14",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1288,
+                    "y": 1072,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 125,
+                    "height": 2
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "61ecb07e-72d8-427b-97ac-8a9502269823",
+                    "label": "colliderShapeNineteen_15",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 1220,
+                    "y": 1008,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 2,
+                    "height": 125
+                },
+                {
+                    "type": "Rectangle",
+                    "id": "ab985ba3-9251-4ca6-90ef-3437eb78f071",
+                    "label": "colliderShape_2",
+                    "scope": "CLASS",
+                    "components": [
+                        "CollisionProperty"
+                    ],
+                    "x": 632,
+                    "y": 413,
+                    "isFilled": true,
+                    "fillColor": "#000",
+                    "width": 120,
+                    "height": 2
+                }
+            ]
+        },
+        {
+            "type": "Image",
+            "id": "4d05884f-0184-44c3-8515-33e48366b8c5",
+            "label": "player",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "dino"
+            },
+            "x": 501,
+            "y": 999,
+            "scaleX": 0.45,
+            "scaleY": 0.45
+        },
+        {
+            "type": "Text",
+            "id": "19358dc7-8555-4d89-bf6e-46abcd696234",
+            "label": "text_1",
+            "components": [],
+            "x": 132,
+            "y": 10,
+            "text": "Level 4",
+            "fontSize": "50px",
+            "fontStyle": "bold italic",
+            "color": "#890777ff"
+        },
+        {
+            "type": "Text",
+            "id": "f4b7a5a9-3dde-4018-9d65-0b226c9eba7a",
+            "label": "timerCountDown",
+            "scope": "CLASS",
+            "components": [],
+            "x": 1658,
+            "y": 10,
+            "text": "20",
+            "fontSize": "50px",
+            "fontStyle": "bold",
+            "color": "#890777ff"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
